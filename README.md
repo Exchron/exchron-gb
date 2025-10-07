@@ -1,3 +1,5 @@
+## IMPORTANT: Due to time limitations, the README.md file provides an AI generated summary of the project. For detailed instructions and methodology please check back later or refer to the https://docs.exchronai.earth
+
 # Exoplanet Prediction Using Gradient Boosting
 
 This project builds a machine learning model to predict whether a Kepler Object of Interest (KOI) is likely to be an exoplanet candidate using gradient boosting classifier. The model outputs probabilities for both candidate and non-candidate classifications and includes comprehensive hyperparameter tuning for optimal performance.
